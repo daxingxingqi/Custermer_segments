@@ -4,4 +4,4 @@
 
 [箱形图](https://zh.wikipedia.org/wiki/%E7%AE%B1%E5%BD%A2%E5%9C%96)是可视化四分位数的很好的工具, 你可以学习seaborn的[boxplot](https://seaborn.pydata.org/generated/seaborn.boxplot.html)以及matplotlib的[boxplot](https://matplotlib.org/examples/pylab_examples/boxplot_demo.html).
 
-<div align=center><img width="650" src=resources/1.png></div>
+<div align=center><img width="650" src=resource/1.png></div>
